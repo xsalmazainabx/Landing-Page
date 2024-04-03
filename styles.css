@@ -1,0 +1,158 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+}
+.subhead{
+    display: flex;
+    gap: 20px;
+    position: relative;
+    left: 320px;
+    align-items: center;
+
+}
+.contact{
+    color: blue;
+    position: relative;
+}
+.img img{
+    height: 600px;
+    width: 100%;
+    position: relative;
+}
+.sym{
+    background: #0c6f03;
+    height: 30px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+    position: relative;
+    left: 100px;
+    top: 14px;
+    
+}
+.sym p{
+    align-items: center;
+    position: relative;
+    bottom: 9px;
+    left: 37px;
+}
+.more{
+    display: flex;
+    background-color: #12a899;
+    padding: 10px;
+    justify-content: space-between;
+
+}
+.more img{
+    width: 34px;
+    height: 34px;
+    
+}
+.flex{
+    display: flex;
+    gap: 10px;
+}
+.welcome{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.imgclean img{
+width: 80%;
+height: 100%;
+position: relative;
+left: 6%;
+bottom:26% ;
+
+}
+.about{
+    position: relative;
+    left: 78px;
+   
+}
+.main{
+    display: flex;
+}
+.story{
+    
+    background:  #12a899;
+    height: 35px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+    position: relative;
+    left: 100px;
+    bottom: 150px;
+    }
+.story p{
+    align-items: center;
+    position: relative;
+    left: 32px;
+    bottom: 7px;
+    
+}  
+.review{
+     
+    background:  #12a847;
+    height: 35px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+    position: relative;
+    left: 120px;
+    bottom: 150px;
+    }
+.review p{
+    align-items: center;
+    position: relative;
+    left: 32px;
+    bottom: 7px;
+}
+.oursrvicesimg {
+    display: flex; 
+    justify-content: space-between;
+   position: relative;
+}
+.oursrvicesimg img{
+height: 250px ;
+width:200x ;
+position: relative;
+bottom: 145px;
+
+}
+.new{
+    position: relative;
+    background-color: #12a899;
+}
+.name{
+    position: relative;
+    bottom: 130px;
+    left: 10px;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+
+}
+.content1{
+    
+    
+    position: relative;
+    right: 70px;
+    bottom: 150px;
+}
+.content2{
+  bottom: 150px;
+    position: relative; 
+}
+.content3{
+    bottom: 150px;
+    left: 70px;
+    position: relative;
+}
